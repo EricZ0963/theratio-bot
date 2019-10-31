@@ -7,7 +7,7 @@
     "async": "^3.0.1",
     "discord.js": "^11.5.1",
     "lodash": "^4.17.11",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "pm2": "^3.5.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7"
