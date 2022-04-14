@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "async": "^3.0.1",
+    "async": "^3.2.2",
     "discord.js": "^11.5.1",
     "lodash": "^4.17.11",
     "mongoose": "^5.5.12",
